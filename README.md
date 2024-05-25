@@ -4,7 +4,7 @@
 
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
 
-[<p align="center"><img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/TeamKun/NumaLauncher/releases)</p>
+[<p align="center"><img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/oogatakun/TyaromarseLauncher/releases)</p>
 
 | Platform | File |
 | -------- | ---- |
@@ -38,7 +38,7 @@ ctrl + shift + i
 **Clone and Install Dependencies**
 
 ```console
-> git clone https://github.com/TeamKun/NumaLauncher.git
+> git clone https://github.com/oogatakun/TyaromarseLauncher.git
 > cd NumaLauncher
 > npm install
 ```
@@ -55,7 +55,7 @@ ctrl + shift + i
 
 **Build Installers**
 
-STEP1. <a src="https://github.com/TeamKun/config-files/releases">jdk.zip</a>をダウンロードしプロジェクトルートに展開
+STEP1. <a src="https://github.com/oogatakun/config-files/releases">jdk.zip</a>をダウンロードしプロジェクトルートに展開
 
 STEP2. プラットフォームごとにコマンドを下記実行
 
