@@ -39,7 +39,7 @@ ctrl + shift + i
 
 ```console
 > git clone https://github.com/oogatakun/TyaromarseLauncher.git
-> cd NumaLauncher
+> cd TyaromarseLauncher
 > npm install
 ```
 
